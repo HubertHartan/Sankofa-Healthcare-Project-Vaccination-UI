@@ -2,7 +2,7 @@
 ## Vaccination User Interface
 ### Vaccination UI
 
-This project contains the frontend user interface for vaccination UI for Sankofa Healthcare Framework.
+This project contains the frontend user interface for vaccination UI for Sankofa Healthcare Framework, an open development project under IBM. More information for the project can be found on IBM's Center for Advanced Studies website: http://ccode.ibm-asset.com/cas/centers/chicago/projects/research/shf/
 
 The Sankofa Healthcare Framework is a private Blockchain Platform system for Healthcare for sensitive, including interoperable data warehouses through standards-based APIs.
 
